@@ -7,6 +7,7 @@ libPiggyEconomy is a virion for easy support of multiple economy providers.
 - [EconomyAPI](https://poggit.pmmp.io/p/EconomyAPI) by onebone/poggit-orphanage
 - [BedrockEconomy](https://poggit.pmmp.io/p/BedrockEconomy) by cooldogedev
 - Experience (PMMP)
+- CandyAPI by Mrchlldev
 
 ## Usage
 
